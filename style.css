@@ -1,0 +1,31 @@
+.maior {
+    background-color: #44ee69;
+    width: 500px;
+    height: 500px;
+}
+
+.menor {
+    background-color: #a22049;
+    width: 50%;
+    height: 50%;
+}
+
+.fonte {
+    color: rgb(153, 25, 138);
+    background-color: rgb(145, 0, 0);
+    font-size: 25px;
+    font-style: bold;
+    font-family: Verdana;
+}
+
+.pai {
+    background-color:rgb(1, 16, 32);
+    width: 50%;
+    height: 50vh;
+}
+
+.filha {
+    background-color: rgb(207, 19, 173);
+    width: 75%;
+    height: 50%;
+}
